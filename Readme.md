@@ -68,8 +68,3 @@ bash
 npm run build
 npm start
 
-● Team Members
-
-Aachal Parate
-Samiksha Mohite
-Vidya Pawar
